@@ -1,0 +1,2176 @@
+{
+  "customer": [
+    {
+      "id": 1,
+      "name": "Daniel Düsentrieb",
+      "address": "Ostengasse 4c, Regensburg",
+      "phone_number": "01632171112",
+      "age": "66",
+      "education": "B.A. Business administration",
+      "customertype": "1"
+    },
+    {
+      "id": 2,
+      "name": "Megan Fox",
+      "address": "East Driveway 32nd, Los Angeles",
+      "phone_number": "+089/18064242",
+      "age": "37",
+      "education": "B.A. Acting",
+      "customertype": "1"
+    },
+    {
+      "id": 3,
+      "name": "Dagobert Duck",
+      "address": "Ostengasse 4c, Regensburg",
+      "phone_number": "01632171112",
+      "age": "66",
+      "education": "Basic Knowledge Cert.",
+      "customertype": "2"
+    },
+    {
+      "id": 6,
+      "name": "Martin Schmidt1",
+      "address": "Frauentor 37, Nuremberg",
+      "phone_number": "01701566666",
+      "age": "91",
+      "education": "Advanced vocational certificate of education (college)",
+      "customertype": "2"
+    },
+    {
+      "id": 7,
+      "name": "Martin Schmidt2",
+      "address": "Frauentor 37, Nuremberg",
+      "phone_number": "01701566666",
+      "age": "91",
+      "education": "Advanced vocational certificate of education (college)",
+      "customertype": "2"
+    },
+    {
+      "id": 8,
+      "name": "Martin Schmid3",
+      "address": "Frauentor 37, Nuremberg",
+      "phone_number": "01701566666",
+      "age": "91",
+      "education": "Advanced vocational certificate of education (college)",
+      "customertype": "2"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "customertype": [
+    {
+      "customerid": "0",
+      "typename": "Show all"
+    },
+    {
+      "customerid": "1",
+      "typename": "Business customer"
+    },
+    {
+      "customerid": "2",
+      "typename": "Private customer"
+    }
+  ],
+  "bundesliganews": [
+    {
+      "idNews": "1",
+      "msg": "Marco Reus willing to become Player of Bayern München"
+    },
+    {
+      "idNews": "2",
+      "msg": "Gladbach manger resigned: 'I can't take it anymore!'"
+    },
+    {
+      "idNews": "3",
+      "msg": "First ever team to win the title without losing a game."
+    },
+    {
+      "idNews": "4",
+      "msg": "These were the most lethal striker in the Bundesliga"
+    },
+    {
+      "idNews": "5",
+      "msg": "Top10-Awards for best defensive performances"
+    },
+    {
+      "idNews": "6",
+      "msg": "How Düsseldorf managed to avoid being relegated"
+    },
+    {
+      "idNews": "7",
+      "msg": "Several heartbreaking injuries affect VfB Stuttgart"
+    },
+    {
+      "idNews": "8",
+      "msg": "1. FC Nuremberg: A season to forget, but a chance to come back."
+    },
+    {
+      "idNews": "9",
+      "msg": "These teams will be playing in the 1. Bundesliga next year =>"
+    },
+    {
+      "idNews": "10",
+      "msg": "Ribery said to be traded to Real Madrid for 70 Million $"
+    }
+  ],
+  "bundesligatable18": [
+    {
+      "TeamInfoId": 1635,
+      "TeamName": "RB Leipzig",
+      "ShortName": "RBL Leipzig",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/RB_Leipzig_2014_logo.svg/20px-RB_Leipzig_2014_logo.svg.png",
+      "Points": 66,
+      "OpponentGoals": 29,
+      "Goals": 63,
+      "Matches": 34,
+      "Won": 19,
+      "Lost": 6,
+      "Draw": 9,
+      "GoalDiff": 34
+    },
+    {
+      "TeamInfoId": 7,
+      "TeamName": "Borussia Dortmund",
+      "ShortName": "BVB",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/240px-Borussia_Dortmund_logo.svg.png",
+      "Points": 76,
+      "OpponentGoals": 44,
+      "Goals": 81,
+      "Matches": 34,
+      "Won": 23,
+      "Lost": 4,
+      "Draw": 7,
+      "GoalDiff": 37
+    },
+    {
+      "TeamInfoId": 40,
+      "TeamName": "FC Bayern",
+      "ShortName": "FCB",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg/240px-Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg.png",
+      "Points": 78,
+      "OpponentGoals": 32,
+      "Goals": 88,
+      "Matches": 34,
+      "Won": 24,
+      "Lost": 4,
+      "Draw": 6,
+      "GoalDiff": 56
+    },
+    {
+      "TeamInfoId": 131,
+      "TeamName": "VfL Wolfsburg",
+      "ShortName": "VfL Wolfsburg",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/1024px-Logo-VfL-Wolfsburg.svg.png",
+      "Points": 55,
+      "OpponentGoals": 50,
+      "Goals": 62,
+      "Matches": 34,
+      "Won": 16,
+      "Lost": 11,
+      "Draw": 7,
+      "GoalDiff": 12
+    },
+    {
+      "TeamInfoId": 175,
+      "TeamName": "TSG 1899 Hoffenheim",
+      "ShortName": "Hoffenheim",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/TSG_Logo-Standard_4c.png",
+      "Points": 51,
+      "OpponentGoals": 52,
+      "Goals": 70,
+      "Matches": 34,
+      "Won": 13,
+      "Lost": 9,
+      "Draw": 12,
+      "GoalDiff": 18
+    },
+    {
+      "TeamInfoId": 6,
+      "TeamName": "Bayer Leverkusen",
+      "ShortName": "Leverkusen",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f7/Bayer_Leverkusen_Logo.svg/1280px-Bayer_Leverkusen_Logo.svg.png",
+      "Points": 58,
+      "OpponentGoals": 52,
+      "Goals": 69,
+      "Matches": 34,
+      "Won": 18,
+      "Lost": 12,
+      "Draw": 4,
+      "GoalDiff": 17
+    },
+    {
+      "TeamInfoId": 134,
+      "TeamName": "Werder Bremen",
+      "ShortName": "Bremen",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "Points": 53,
+      "OpponentGoals": 49,
+      "Goals": 58,
+      "Matches": 34,
+      "Won": 14,
+      "Lost": 9,
+      "Draw": 11,
+      "GoalDiff": 9
+    },
+    {
+      "TeamInfoId": 54,
+      "TeamName": "Hertha BSC",
+      "ShortName": "Hertha",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hertha_BSC_Logo_2012.svg/2858px-Hertha_BSC_Logo_2012.svg.png",
+      "Points": 43,
+      "OpponentGoals": 57,
+      "Goals": 49,
+      "Matches": 34,
+      "Won": 11,
+      "Lost": 13,
+      "Draw": 10,
+      "GoalDiff": -8
+    },
+    {
+      "TeamInfoId": 87,
+      "TeamName": "Borussia Mönchengladbach",
+      "ShortName": "M'gladbach",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_Mönchengladbach_logo.svg/630px-Borussia_Mönchengladbach_logo.svg.png",
+      "Points": 55,
+      "OpponentGoals": 42,
+      "Goals": 55,
+      "Matches": 34,
+      "Won": 16,
+      "Lost": 11,
+      "Draw": 7,
+      "GoalDiff": 13
+    },
+    {
+      "TeamInfoId": 9,
+      "TeamName": "FC Schalke 04",
+      "ShortName": "Schalke",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FC_Schalke_04_Logo.svg/1024px-FC_Schalke_04_Logo.svg.png",
+      "Points": 33,
+      "OpponentGoals": 55,
+      "Goals": 37,
+      "Matches": 34,
+      "Won": 8,
+      "Lost": 17,
+      "Draw": 9,
+      "GoalDiff": -18
+    },
+    {
+      "TeamInfoId": 112,
+      "TeamName": "SC Freiburg",
+      "ShortName": "Freiburg",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f1/SC-Freiburg_Logo-neu.svg/739px-SC-Freiburg_Logo-neu.svg.png",
+      "Points": 36,
+      "OpponentGoals": 61,
+      "Goals": 46,
+      "Matches": 34,
+      "Won": 8,
+      "Lost": 14,
+      "Draw": 12,
+      "GoalDiff": -15
+    },
+    {
+      "TeamInfoId": 95,
+      "TeamName": "FC Augsburg",
+      "ShortName": "Augsburg",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/b/b5/Logo_FC_Augsburg.svg/785px-Logo_FC_Augsburg.svg.png",
+      "Points": 32,
+      "OpponentGoals": 71,
+      "Goals": 51,
+      "Matches": 34,
+      "Won": 8,
+      "Lost": 18,
+      "Draw": 8,
+      "GoalDiff": -20
+    },
+    {
+      "TeamInfoId": 16,
+      "TeamName": "VfB Stuttgart",
+      "ShortName": "Stuttgart",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/921px-VfB_Stuttgart_1893_Logo.svg.png",
+      "Points": 28,
+      "OpponentGoals": 70,
+      "Goals": 32,
+      "Matches": 34,
+      "Won": 7,
+      "Lost": 20,
+      "Draw": 7,
+      "GoalDiff": -38
+    },
+    {
+      "TeamInfoId": 55,
+      "TeamName": "Hannover 96",
+      "ShortName": "Hannover",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hannover_96_Logo.svg/1162px-Hannover_96_Logo.svg.png",
+      "Points": 21,
+      "OpponentGoals": 71,
+      "Goals": 31,
+      "Matches": 34,
+      "Won": 5,
+      "Lost": 23,
+      "Draw": 6,
+      "GoalDiff": -40
+    },
+    {
+      "TeamInfoId": 91,
+      "TeamName": "Eintracht Frankfurt",
+      "ShortName": "Frankfurt",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eintracht_Frankfurt_Logo.svg/1024px-Eintracht_Frankfurt_Logo.svg.png",
+      "Points": 54,
+      "OpponentGoals": 48,
+      "Goals": 60,
+      "Matches": 34,
+      "Won": 15,
+      "Lost": 10,
+      "Draw": 9,
+      "GoalDiff": 12
+    },
+    {
+      "TeamInfoId": 81,
+      "TeamName": "1. FSV Mainz 05",
+      "ShortName": "Mainz 05",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1099px-Logo_Mainz_05.svg.png",
+      "Points": 43,
+      "OpponentGoals": 57,
+      "Goals": 46,
+      "Matches": 34,
+      "Won": 12,
+      "Lost": 15,
+      "Draw": 7,
+      "GoalDiff": -11
+    },
+    {
+      "TeamInfoId": 185,
+      "TeamName": "Fortuna Düsseldorf",
+      "ShortName": "Düsseldorf",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/150px-Fortuna_D%C3%BCsseldorf.svg.png",
+      "Points": 44,
+      "OpponentGoals": 65,
+      "Goals": 49,
+      "Matches": 34,
+      "Won": 13,
+      "Lost": 16,
+      "Draw": 5,
+      "GoalDiff": -16
+    },
+    {
+      "TeamInfoId": 79,
+      "TeamName": "1. FC Nürnberg",
+      "ShortName": "Nürnberg",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/1._FC_Nürnberg_logo.svg/1024px-1._FC_Nürnberg_logo.svg.png",
+      "Points": 19,
+      "OpponentGoals": 68,
+      "Goals": 26,
+      "Matches": 34,
+      "Won": 3,
+      "Lost": 21,
+      "Draw": 10,
+      "GoalDiff": -42
+    }
+  ],
+  "bundesligatable17": [
+    {
+      "TeamInfoId": 40,
+      "TeamName": "FC Bayern",
+      "ShortName": "FCB",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg/240px-Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg.png",
+      "Points": 84,
+      "OpponentGoals": 28,
+      "Goals": 92,
+      "Matches": 34,
+      "Won": 27,
+      "Lost": 4,
+      "Draw": 3,
+      "GoalDiff": 64
+    },
+    {
+      "TeamInfoId": 9,
+      "TeamName": "FC Schalke 04",
+      "ShortName": "Schalke",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FC_Schalke_04_Logo.svg/1024px-FC_Schalke_04_Logo.svg.png",
+      "Points": 63,
+      "OpponentGoals": 37,
+      "Goals": 53,
+      "Matches": 34,
+      "Won": 18,
+      "Lost": 7,
+      "Draw": 9,
+      "GoalDiff": 16
+    },
+    {
+      "TeamInfoId": 7,
+      "TeamName": "Borussia Dortmund",
+      "ShortName": "BVB",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/240px-Borussia_Dortmund_logo.svg.png",
+      "Points": 55,
+      "OpponentGoals": 47,
+      "Goals": 64,
+      "Matches": 34,
+      "Won": 15,
+      "Lost": 9,
+      "Draw": 10,
+      "GoalDiff": 17
+    },
+    {
+      "TeamInfoId": 6,
+      "TeamName": "Bayer Leverkusen",
+      "ShortName": "Leverkusen",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f7/Bayer_Leverkusen_Logo.svg/1280px-Bayer_Leverkusen_Logo.svg.png",
+      "Points": 55,
+      "OpponentGoals": 44,
+      "Goals": 58,
+      "Matches": 34,
+      "Won": 15,
+      "Lost": 9,
+      "Draw": 10,
+      "GoalDiff": 14
+    },
+    {
+      "TeamInfoId": 91,
+      "TeamName": "Eintracht Frankfurt",
+      "ShortName": "Frankfurt",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eintracht_Frankfurt_Logo.svg/1024px-Eintracht_Frankfurt_Logo.svg.png",
+      "Points": 49,
+      "OpponentGoals": 45,
+      "Goals": 45,
+      "Matches": 34,
+      "Won": 14,
+      "Lost": 13,
+      "Draw": 7,
+      "GoalDiff": 0
+    },
+    {
+      "TeamInfoId": 16,
+      "TeamName": "VfB Stuttgart",
+      "ShortName": "Stuttgart",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/921px-VfB_Stuttgart_1893_Logo.svg.png",
+      "Points": 51,
+      "OpponentGoals": 36,
+      "Goals": 36,
+      "Matches": 34,
+      "Won": 15,
+      "Lost": 13,
+      "Draw": 6,
+      "GoalDiff": 0
+    },
+    {
+      "TeamInfoId": 1635,
+      "TeamName": "RB Leipzig",
+      "ShortName": "RBL Leipzig",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/RB_Leipzig_2014_logo.svg/20px-RB_Leipzig_2014_logo.svg.png",
+      "Points": 53,
+      "OpponentGoals": 53,
+      "Goals": 57,
+      "Matches": 34,
+      "Won": 15,
+      "Lost": 11,
+      "Draw": 8,
+      "GoalDiff": 4
+    },
+    {
+      "TeamInfoId": 54,
+      "TeamName": "Hertha BSC",
+      "ShortName": "Hertha",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hertha_BSC_Logo_2012.svg/2858px-Hertha_BSC_Logo_2012.svg.png",
+      "Points": 43,
+      "OpponentGoals": 46,
+      "Goals": 43,
+      "Matches": 34,
+      "Won": 10,
+      "Lost": 11,
+      "Draw": 13,
+      "GoalDiff": -3
+    },
+    {
+      "TeamInfoId": 87,
+      "TeamName": "Borussia Mönchengladbach",
+      "ShortName": "M'gladbach",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_Mönchengladbach_logo.svg/630px-Borussia_Mönchengladbach_logo.svg.png",
+      "Points": 47,
+      "OpponentGoals": 52,
+      "Goals": 47,
+      "Matches": 34,
+      "Won": 13,
+      "Lost": 13,
+      "Draw": 8,
+      "GoalDiff": -5
+    },
+    {
+      "TeamInfoId": 95,
+      "TeamName": "FC Augsburg",
+      "ShortName": "Augsburg",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/b/b5/Logo_FC_Augsburg.svg/785px-Logo_FC_Augsburg.svg.png",
+      "Points": 41,
+      "OpponentGoals": 46,
+      "Goals": 43,
+      "Matches": 34,
+      "Won": 10,
+      "Lost": 13,
+      "Draw": 11,
+      "GoalDiff": -3
+    },
+    {
+      "TeamInfoId": 134,
+      "TeamName": "Werder Bremen",
+      "ShortName": "Bremen",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "Points": 42,
+      "OpponentGoals": 40,
+      "Goals": 37,
+      "Matches": 34,
+      "Won": 10,
+      "Lost": 12,
+      "Draw": 12,
+      "GoalDiff": -3
+    },
+    {
+      "TeamInfoId": 175,
+      "TeamName": "TSG 1899 Hoffenheim",
+      "ShortName": "Hoffenheim",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/TSG_Logo-Standard_4c.png",
+      "Points": 55,
+      "OpponentGoals": 48,
+      "Goals": 66,
+      "Matches": 34,
+      "Won": 15,
+      "Lost": 9,
+      "Draw": 10,
+      "GoalDiff": 18
+    },
+    {
+      "TeamInfoId": 112,
+      "TeamName": "SC Freiburg",
+      "ShortName": "Freiburg",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f1/SC-Freiburg_Logo-neu.svg/739px-SC-Freiburg_Logo-neu.svg.png",
+      "Points": 36,
+      "OpponentGoals": 56,
+      "Goals": 32,
+      "Matches": 34,
+      "Won": 8,
+      "Lost": 14,
+      "Draw": 12,
+      "GoalDiff": -24
+    },
+    {
+      "TeamInfoId": 131,
+      "TeamName": "VfL Wolfsburg",
+      "ShortName": "VfL Wolfsburg",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/1024px-Logo-VfL-Wolfsburg.svg.png",
+      "Points": 33,
+      "OpponentGoals": 48,
+      "Goals": 36,
+      "Matches": 34,
+      "Won": 6,
+      "Lost": 13,
+      "Draw": 15,
+      "GoalDiff": -12
+    },
+    {
+      "TeamInfoId": 81,
+      "TeamName": "1. FSV Mainz 05",
+      "ShortName": "Mainz 05",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1099px-Logo_Mainz_05.svg.png",
+      "Points": 36,
+      "OpponentGoals": 52,
+      "Goals": 38,
+      "Matches": 34,
+      "Won": 9,
+      "Lost": 16,
+      "Draw": 9,
+      "GoalDiff": -14
+    },
+    {
+      "TeamInfoId": 65,
+      "TeamName": "1. FC Köln",
+      "ShortName": "Köln",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/FC_Cologne_logo.svg/901px-FC_Cologne_logo.svg.png",
+      "Points": 22,
+      "OpponentGoals": 70,
+      "Goals": 35,
+      "Matches": 34,
+      "Won": 5,
+      "Lost": 22,
+      "Draw": 7,
+      "GoalDiff": -35
+    },
+    {
+      "TeamInfoId": 55,
+      "TeamName": "Hannover 96",
+      "ShortName": "Hannover",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hannover_96_Logo.svg/1162px-Hannover_96_Logo.svg.png",
+      "Points": 39,
+      "OpponentGoals": 54,
+      "Goals": 44,
+      "Matches": 34,
+      "Won": 10,
+      "Lost": 15,
+      "Draw": 9,
+      "GoalDiff": -10
+    },
+    {
+      "TeamInfoId": 100,
+      "TeamName": "Hamburger SV",
+      "ShortName": "HSV",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/HSV-Logo.svg/20px-HSV-Logo.svg.png",
+      "Points": 31,
+      "OpponentGoals": 53,
+      "Goals": 29,
+      "Matches": 34,
+      "Won": 8,
+      "Lost": 19,
+      "Draw": 7,
+      "GoalDiff": -24
+    }
+  ],
+  "bundesligatable16": [
+    {
+      "TeamInfoId": 40,
+      "TeamName": "FC Bayern",
+      "ShortName": "FCB",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg/240px-Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg.png",
+      "Points": 82,
+      "OpponentGoals": 22,
+      "Goals": 89,
+      "Matches": 34,
+      "Won": 25,
+      "Lost": 2,
+      "Draw": 7,
+      "GoalDiff": 67
+    },
+    {
+      "TeamInfoId": 7,
+      "TeamName": "Borussia Dortmund",
+      "ShortName": "BVB",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/240px-Borussia_Dortmund_logo.svg.png",
+      "Points": 64,
+      "OpponentGoals": 40,
+      "Goals": 72,
+      "Matches": 34,
+      "Won": 18,
+      "Lost": 6,
+      "Draw": 10,
+      "GoalDiff": 32
+    },
+    {
+      "TeamInfoId": 175,
+      "TeamName": "TSG 1899 Hoffenheim",
+      "ShortName": "Hoffenheim",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/TSG_Logo-Standard_4c.png",
+      "Points": 62,
+      "OpponentGoals": 37,
+      "Goals": 64,
+      "Matches": 34,
+      "Won": 16,
+      "Lost": 4,
+      "Draw": 14,
+      "GoalDiff": 27
+    },
+    {
+      "TeamInfoId": 54,
+      "TeamName": "Hertha BSC",
+      "ShortName": "Hertha",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hertha_BSC_Logo_2012.svg/2858px-Hertha_BSC_Logo_2012.svg.png",
+      "Points": 49,
+      "OpponentGoals": 47,
+      "Goals": 43,
+      "Matches": 34,
+      "Won": 15,
+      "Lost": 15,
+      "Draw": 4,
+      "GoalDiff": -4
+    },
+    {
+      "TeamInfoId": 112,
+      "TeamName": "SC Freiburg",
+      "ShortName": "Freiburg",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f1/SC-Freiburg_Logo-neu.svg/739px-SC-Freiburg_Logo-neu.svg.png",
+      "Points": 48,
+      "OpponentGoals": 60,
+      "Goals": 42,
+      "Matches": 34,
+      "Won": 14,
+      "Lost": 14,
+      "Draw": 6,
+      "GoalDiff": -18
+    },
+    {
+      "TeamInfoId": 87,
+      "TeamName": "Borussia Mönchengladbach",
+      "ShortName": "M'gladbach",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_Mönchengladbach_logo.svg/630px-Borussia_Mönchengladbach_logo.svg.png",
+      "Points": 45,
+      "OpponentGoals": 49,
+      "Goals": 45,
+      "Matches": 34,
+      "Won": 12,
+      "Lost": 13,
+      "Draw": 9,
+      "GoalDiff": -4
+    },
+    {
+      "TeamInfoId": 134,
+      "TeamName": "Werder Bremen",
+      "ShortName": "Bremen",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "Points": 45,
+      "OpponentGoals": 64,
+      "Goals": 61,
+      "Matches": 34,
+      "Won": 13,
+      "Lost": 15,
+      "Draw": 6,
+      "GoalDiff": -3
+    },
+    {
+      "TeamInfoId": 9,
+      "TeamName": "FC Schalke 04",
+      "ShortName": "Schalke",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FC_Schalke_04_Logo.svg/1024px-FC_Schalke_04_Logo.svg.png",
+      "Points": 43,
+      "OpponentGoals": 40,
+      "Goals": 45,
+      "Matches": 34,
+      "Won": 11,
+      "Lost": 13,
+      "Draw": 10,
+      "GoalDiff": 5
+    },
+    {
+      "TeamInfoId": 91,
+      "TeamName": "Eintracht Frankfurt",
+      "ShortName": "Frankfurt",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eintracht_Frankfurt_Logo.svg/1024px-Eintracht_Frankfurt_Logo.svg.png",
+      "Points": 42,
+      "OpponentGoals": 43,
+      "Goals": 36,
+      "Matches": 34,
+      "Won": 11,
+      "Lost": 14,
+      "Draw": 9,
+      "GoalDiff": -7
+    },
+    {
+      "TeamInfoId": 6,
+      "TeamName": "Bayer Leverkusen",
+      "ShortName": "Leverkusen",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f7/Bayer_Leverkusen_Logo.svg/1280px-Bayer_Leverkusen_Logo.svg.png",
+      "Points": 41,
+      "OpponentGoals": 55,
+      "Goals": 53,
+      "Matches": 34,
+      "Won": 11,
+      "Lost": 15,
+      "Draw": 8,
+      "GoalDiff": -2
+    },
+    {
+      "TeamInfoId": 100,
+      "TeamName": "Hamburger SV",
+      "ShortName": "HSV",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/HSV-Logo.svg/20px-HSV-Logo.svg.png",
+      "Points": 38,
+      "OpponentGoals": 61,
+      "Goals": 33,
+      "Matches": 34,
+      "Won": 10,
+      "Lost": 16,
+      "Draw": 8,
+      "GoalDiff": -28
+    },
+    {
+      "TeamInfoId": 65,
+      "TeamName": "1. FC Köln",
+      "ShortName": "Köln",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/FC_Cologne_logo.svg/901px-FC_Cologne_logo.svg.png",
+      "Points": 49,
+      "OpponentGoals": 42,
+      "Goals": 51,
+      "Matches": 34,
+      "Won": 12,
+      "Lost": 9,
+      "Draw": 13,
+      "GoalDiff": 9
+    },
+    {
+      "TeamInfoId": 95,
+      "TeamName": "FC Augsburg",
+      "ShortName": "Augsburg",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/b/b5/Logo_FC_Augsburg.svg/785px-Logo_FC_Augsburg.svg.png",
+      "Points": 38,
+      "OpponentGoals": 51,
+      "Goals": 35,
+      "Matches": 34,
+      "Won": 9,
+      "Lost": 14,
+      "Draw": 11,
+      "GoalDiff": -16
+    },
+    {
+      "TeamInfoId": 81,
+      "TeamName": "1. FSV Mainz 05",
+      "ShortName": "Mainz 05",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1099px-Logo_Mainz_05.svg.png",
+      "Points": 37,
+      "OpponentGoals": 55,
+      "Goals": 44,
+      "Matches": 34,
+      "Won": 10,
+      "Lost": 17,
+      "Draw": 7,
+      "GoalDiff": -11
+    },
+    {
+      "TeamInfoId": 1635,
+      "TeamName": "RB Leipzig",
+      "ShortName": "RBL Leipzig",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/RB_Leipzig_2014_logo.svg/20px-RB_Leipzig_2014_logo.svg.png",
+      "Points": 67,
+      "OpponentGoals": 39,
+      "Goals": 66,
+      "Matches": 34,
+      "Won": 20,
+      "Lost": 7,
+      "Draw": 7,
+      "GoalDiff": 27
+    },
+    {
+      "TeamInfoId": 131,
+      "TeamName": "VfL Wolfsburg",
+      "ShortName": "VfL Wolfsburg",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/1024px-Logo-VfL-Wolfsburg.svg.png",
+      "Points": 37,
+      "OpponentGoals": 52,
+      "Goals": 34,
+      "Matches": 34,
+      "Won": 10,
+      "Lost": 17,
+      "Draw": 7,
+      "GoalDiff": -18
+    },
+    {
+      "TeamInfoId": 171,
+      "TeamName": "FC Ingolstadt 04",
+      "ShortName": null,
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/5/55/FC-Ingolstadt_logo.svg/125px-FC-Ingolstadt_logo.svg.png",
+      "Points": 32,
+      "OpponentGoals": 57,
+      "Goals": 36,
+      "Matches": 34,
+      "Won": 8,
+      "Lost": 18,
+      "Draw": 8,
+      "GoalDiff": -21
+    },
+    {
+      "TeamInfoId": 118,
+      "TeamName": "SV Darmstadt 98",
+      "ShortName": "SV Darmstadt",
+      "TeamIconUrl": "https://www.openligadb.de/images/teamicons/SV_Darmstadt_98.gif",
+      "Points": 25,
+      "OpponentGoals": 63,
+      "Goals": 28,
+      "Matches": 34,
+      "Won": 7,
+      "Lost": 23,
+      "Draw": 4,
+      "GoalDiff": -35
+    }
+  ],
+  "bundesligastatistic18": [
+    {
+      "TeamInfoId": 1635,
+      "TeamName": "RB Leipzig",
+      "ShortName": "RBL Leipzig",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/RB_Leipzig_2014_logo.svg/20px-RB_Leipzig_2014_logo.svg.png",
+      "Points": 66,
+      "OpponentGoals": 29,
+      "Goals": 63,
+      "Matches": 34,
+      "Won": 19,
+      "Lost": 6,
+      "Draw": 9,
+      "GoalDiff": 34,
+      "player": [
+        {
+          "name": "John Doe",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe1",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe2",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe3",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        }
+      ],
+      "results": [
+        {
+          "gameId": 1,
+          "opponent": "Werder Bremen",
+          "place": "home",
+          "fixture": "2-0"
+        },
+        {
+          "gameId": 2,
+          "opponent": "VfB Stuttgart",
+          "fixture": "1-1",
+          "place": "away"
+        },
+        {
+          "gameId": 3,
+          "opponent": "Borussia Dortmund",
+          "fixture": "3-4",
+          "place": "away"
+        }
+      ]
+    },
+    {
+      "TeamInfoId": 7,
+      "TeamName": "Borussia Dortmund",
+      "ShortName": "BVB",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/240px-Borussia_Dortmund_logo.svg.png",
+      "Points": 76,
+      "OpponentGoals": 44,
+      "Goals": 81,
+      "Matches": 34,
+      "Won": 23,
+      "Lost": 4,
+      "Draw": 7,
+      "GoalDiff": 37,
+      "player": [
+        {
+          "name": "John Doe",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe1",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe2",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe3",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        }
+      ],
+      "results": [
+        {
+          "gameId": 1,
+          "opponent": "Werder Bremen",
+          "place": "home",
+          "fixture": "2-0"
+        },
+        {
+          "gameId": 2,
+          "opponent": "VfB Stuttgart",
+          "fixture": "1-1",
+          "place": "away"
+        },
+        {
+          "gameId": 3,
+          "opponent": "Borussia Dortmund",
+          "fixture": "3-4",
+          "place": "away"
+        }
+      ]
+    },
+    {
+      "TeamInfoId": 40,
+      "TeamName": "FC Bayern",
+      "ShortName": "FCB",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg/240px-Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg.png",
+      "Points": 78,
+      "OpponentGoals": 32,
+      "Goals": 88,
+      "Matches": 34,
+      "Won": 24,
+      "Lost": 4,
+      "Draw": 6,
+      "GoalDiff": 56,
+      "position": "striker",
+      "player": [
+        {
+          "name": "John Doe1",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe2",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe3",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        }
+      ],
+      "results": [
+        {
+          "gameId": 1,
+          "opponent": "Werder Bremen",
+          "place": "home",
+          "fixture": "2-0"
+        },
+        {
+          "gameId": 2,
+          "opponent": "VfB Stuttgart",
+          "fixture": "1-1",
+          "place": "away"
+        },
+        {
+          "gameId": 3,
+          "opponent": "Borussia Dortmund",
+          "fixture": "3-4",
+          "place": "away"
+        }
+      ]
+    },
+    {
+      "TeamInfoId": 131,
+      "TeamName": "VfL Wolfsburg",
+      "ShortName": "VfL Wolfsburg",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/1024px-Logo-VfL-Wolfsburg.svg.png",
+      "Points": 55,
+      "OpponentGoals": 50,
+      "Goals": 62,
+      "Matches": 34,
+      "Won": 16,
+      "Lost": 11,
+      "Draw": 7,
+      "GoalDiff": 12,
+      "player": [
+        {
+          "name": "John Doe",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe1",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe2",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe3",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        }
+      ],
+      "results": [
+        {
+          "gameId": 1,
+          "opponent": "Werder Bremen",
+          "place": "home",
+          "fixture": "2-0"
+        },
+        {
+          "gameId": 2,
+          "opponent": "VfB Stuttgart",
+          "fixture": "1-1",
+          "place": "away"
+        },
+        {
+          "gameId": 3,
+          "opponent": "Borussia Dortmund",
+          "fixture": "3-4",
+          "place": "away"
+        }
+      ]
+    },
+    {
+      "TeamInfoId": 175,
+      "TeamName": "TSG 1899 Hoffenheim",
+      "ShortName": "Hoffenheim",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/TSG_Logo-Standard_4c.png",
+      "Points": 51,
+      "OpponentGoals": 52,
+      "Goals": 70,
+      "Matches": 34,
+      "Won": 13,
+      "Lost": 9,
+      "Draw": 12,
+      "GoalDiff": 18,
+      "player": [
+        {
+          "name": "John Doe",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe1",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe2",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe3",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        }
+      ],
+      "results": [
+        {
+          "gameId": 1,
+          "opponent": "Werder Bremen",
+          "place": "home",
+          "fixture": "2-0"
+        },
+        {
+          "gameId": 2,
+          "opponent": "VfB Stuttgart",
+          "fixture": "1-1",
+          "place": "away"
+        },
+        {
+          "gameId": 3,
+          "opponent": "Borussia Dortmund",
+          "fixture": "3-4",
+          "place": "away"
+        }
+      ]
+    },
+    {
+      "TeamInfoId": 6,
+      "TeamName": "Bayer Leverkusen",
+      "ShortName": "Leverkusen",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f7/Bayer_Leverkusen_Logo.svg/1280px-Bayer_Leverkusen_Logo.svg.png",
+      "Points": 58,
+      "OpponentGoals": 52,
+      "Goals": 69,
+      "Matches": 34,
+      "Won": 18,
+      "Lost": 12,
+      "Draw": 4,
+      "GoalDiff": 17,
+      "player": [
+        {
+          "name": "John Doe",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe1",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe2",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe3",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        }
+      ],
+      "results": [
+        {
+          "gameId": 1,
+          "opponent": "Werder Bremen",
+          "place": "home",
+          "fixture": "2-0"
+        },
+        {
+          "gameId": 2,
+          "opponent": "VfB Stuttgart",
+          "fixture": "1-1",
+          "place": "away"
+        },
+        {
+          "gameId": 3,
+          "opponent": "Borussia Dortmund",
+          "fixture": "3-4",
+          "place": "away"
+        }
+      ]
+    },
+    {
+      "TeamInfoId": 134,
+      "TeamName": "Werder Bremen",
+      "ShortName": "Bremen",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "Points": 53,
+      "OpponentGoals": 49,
+      "Goals": 58,
+      "Matches": 34,
+      "Won": 14,
+      "Lost": 9,
+      "Draw": 11,
+      "GoalDiff": 9,
+      "player": [
+        {
+          "name": "John Doe",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe1",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe2",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe3",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        }
+      ],
+      "results": [
+        {
+          "gameId": 1,
+          "opponent": "Werder Bremen",
+          "place": "home",
+          "fixture": "2-0"
+        },
+        {
+          "gameId": 2,
+          "opponent": "VfB Stuttgart",
+          "fixture": "1-1",
+          "place": "away"
+        },
+        {
+          "gameId": 3,
+          "opponent": "Borussia Dortmund",
+          "fixture": "3-4",
+          "place": "away"
+        }
+      ]
+    },
+    {
+      "TeamInfoId": 54,
+      "TeamName": "Hertha BSC",
+      "ShortName": "Hertha",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hertha_BSC_Logo_2012.svg/2858px-Hertha_BSC_Logo_2012.svg.png",
+      "Points": 43,
+      "OpponentGoals": 57,
+      "Goals": 49,
+      "Matches": 34,
+      "Won": 11,
+      "Lost": 13,
+      "Draw": 10,
+      "GoalDiff": -8,
+      "player": [
+        {
+          "name": "John Doe",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe1",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe2",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe3",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        }
+      ],
+      "results": [
+        {
+          "gameId": 1,
+          "opponent": "Werder Bremen",
+          "place": "home",
+          "fixture": "2-0"
+        },
+        {
+          "gameId": 2,
+          "opponent": "VfB Stuttgart",
+          "fixture": "1-1",
+          "place": "away"
+        },
+        {
+          "gameId": 3,
+          "opponent": "Borussia Dortmund",
+          "fixture": "3-4",
+          "place": "away"
+        }
+      ]
+    },
+    {
+      "TeamInfoId": 87,
+      "TeamName": "Borussia Mönchengladbach",
+      "ShortName": "M'gladbach",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_Mönchengladbach_logo.svg/630px-Borussia_Mönchengladbach_logo.svg.png",
+      "Points": 55,
+      "OpponentGoals": 42,
+      "Goals": 55,
+      "Matches": 34,
+      "Won": 16,
+      "Lost": 11,
+      "Draw": 7,
+      "GoalDiff": 13,
+      "player": [
+        {
+          "name": "John Doe",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe1",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe2",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe3",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        }
+      ],
+      "results": [
+        {
+          "gameId": 1,
+          "opponent": "Werder Bremen",
+          "place": "home",
+          "fixture": "2-0"
+        },
+        {
+          "gameId": 2,
+          "opponent": "VfB Stuttgart",
+          "fixture": "1-1",
+          "place": "away"
+        },
+        {
+          "gameId": 3,
+          "opponent": "Borussia Dortmund",
+          "fixture": "3-4",
+          "place": "away"
+        }
+      ]
+    },
+    {
+      "TeamInfoId": 9,
+      "TeamName": "FC Schalke 04",
+      "ShortName": "Schalke",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FC_Schalke_04_Logo.svg/1024px-FC_Schalke_04_Logo.svg.png",
+      "Points": 33,
+      "OpponentGoals": 55,
+      "Goals": 37,
+      "Matches": 34,
+      "Won": 8,
+      "Lost": 17,
+      "Draw": 9,
+      "GoalDiff": -18,
+      "player": [
+        {
+          "name": "John Doe",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe1",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe2",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe3",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        }
+      ],
+      "results": [
+        {
+          "gameId": 1,
+          "opponent": "Werder Bremen",
+          "place": "home",
+          "fixture": "2-0"
+        },
+        {
+          "gameId": 2,
+          "opponent": "VfB Stuttgart",
+          "fixture": "1-1",
+          "place": "away"
+        },
+        {
+          "gameId": 3,
+          "opponent": "Borussia Dortmund",
+          "fixture": "3-4",
+          "place": "away"
+        }
+      ]
+    },
+    {
+      "TeamInfoId": 112,
+      "TeamName": "SC Freiburg",
+      "ShortName": "Freiburg",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f1/SC-Freiburg_Logo-neu.svg/739px-SC-Freiburg_Logo-neu.svg.png",
+      "Points": 36,
+      "OpponentGoals": 61,
+      "Goals": 46,
+      "Matches": 34,
+      "Won": 8,
+      "Lost": 14,
+      "Draw": 12,
+      "GoalDiff": -15,
+      "player": [
+        {
+          "name": "John Doe",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe1",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe2",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe3",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        }
+      ],
+      "results": [
+        {
+          "gameId": 1,
+          "opponent": "Werder Bremen",
+          "place": "home",
+          "fixture": "2-0"
+        },
+        {
+          "gameId": 2,
+          "opponent": "VfB Stuttgart",
+          "fixture": "1-1",
+          "place": "away"
+        },
+        {
+          "gameId": 3,
+          "opponent": "Borussia Dortmund",
+          "fixture": "3-4",
+          "place": "away"
+        }
+      ]
+    },
+    {
+      "TeamInfoId": 95,
+      "TeamName": "FC Augsburg",
+      "ShortName": "Augsburg",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/b/b5/Logo_FC_Augsburg.svg/785px-Logo_FC_Augsburg.svg.png",
+      "Points": 32,
+      "OpponentGoals": 71,
+      "Goals": 51,
+      "Matches": 34,
+      "Won": 8,
+      "Lost": 18,
+      "Draw": 8,
+      "GoalDiff": -20,
+      "player": [
+        {
+          "name": "John Doe",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe1",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe2",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe3",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        }
+      ],
+      "results": [
+        {
+          "gameId": 1,
+          "opponent": "Werder Bremen",
+          "place": "home",
+          "fixture": "2-0"
+        },
+        {
+          "gameId": 2,
+          "opponent": "VfB Stuttgart",
+          "fixture": "1-1",
+          "place": "away"
+        },
+        {
+          "gameId": 3,
+          "opponent": "Borussia Dortmund",
+          "fixture": "3-4",
+          "place": "away"
+        }
+      ]
+    },
+    {
+      "TeamInfoId": 16,
+      "TeamName": "VfB Stuttgart",
+      "ShortName": "Stuttgart",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/921px-VfB_Stuttgart_1893_Logo.svg.png",
+      "Points": 28,
+      "OpponentGoals": 70,
+      "Goals": 32,
+      "Matches": 34,
+      "Won": 7,
+      "Lost": 20,
+      "Draw": 7,
+      "GoalDiff": -38,
+      "player": [
+        {
+          "name": "John Doe",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe1",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe2",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe3",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        }
+      ],
+      "results": [
+        {
+          "gameId": 1,
+          "opponent": "Werder Bremen",
+          "place": "home",
+          "fixture": "2-0"
+        },
+        {
+          "gameId": 2,
+          "opponent": "VfB Stuttgart",
+          "fixture": "1-1",
+          "place": "away"
+        },
+        {
+          "gameId": 3,
+          "opponent": "Borussia Dortmund",
+          "fixture": "3-4",
+          "place": "away"
+        }
+      ]
+    },
+    {
+      "TeamInfoId": 55,
+      "TeamName": "Hannover 96",
+      "ShortName": "Hannover",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hannover_96_Logo.svg/1162px-Hannover_96_Logo.svg.png",
+      "Points": 21,
+      "OpponentGoals": 71,
+      "Goals": 31,
+      "Matches": 34,
+      "Won": 5,
+      "Lost": 23,
+      "Draw": 6,
+      "GoalDiff": -40,
+      "player": [
+        {
+          "name": "John Doe",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe1",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe2",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe3",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        }
+      ],
+      "results": [
+        {
+          "gameId": 1,
+          "opponent": "Werder Bremen",
+          "place": "home",
+          "fixture": "2-0"
+        },
+        {
+          "gameId": 2,
+          "opponent": "VfB Stuttgart",
+          "fixture": "1-1",
+          "place": "away"
+        },
+        {
+          "gameId": 3,
+          "opponent": "Borussia Dortmund",
+          "fixture": "3-4",
+          "place": "away"
+        }
+      ]
+    },
+    {
+      "TeamInfoId": 91,
+      "TeamName": "Eintracht Frankfurt",
+      "ShortName": "Frankfurt",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eintracht_Frankfurt_Logo.svg/1024px-Eintracht_Frankfurt_Logo.svg.png",
+      "Points": 54,
+      "OpponentGoals": 48,
+      "Goals": 60,
+      "Matches": 34,
+      "Won": 15,
+      "Lost": 10,
+      "Draw": 9,
+      "GoalDiff": 12,
+      "player": [
+        {
+          "name": "John Doe",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe1",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe2",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe3",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        }
+      ],
+      "results": [
+        {
+          "gameId": 1,
+          "opponent": "Werder Bremen",
+          "place": "home",
+          "fixture": "2-0"
+        },
+        {
+          "gameId": 2,
+          "opponent": "VfB Stuttgart",
+          "fixture": "1-1",
+          "place": "away"
+        },
+        {
+          "gameId": 3,
+          "opponent": "Borussia Dortmund",
+          "fixture": "3-4",
+          "place": "away"
+        }
+      ]
+    },
+    {
+      "TeamInfoId": 81,
+      "TeamName": "1. FSV Mainz 05",
+      "ShortName": "Mainz 05",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1099px-Logo_Mainz_05.svg.png",
+      "Points": 43,
+      "OpponentGoals": 57,
+      "Goals": 46,
+      "Matches": 34,
+      "Won": 12,
+      "Lost": 15,
+      "Draw": 7,
+      "GoalDiff": -11,
+      "player": [
+        {
+          "name": "John Doe",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe1",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe2",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe3",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        }
+      ],
+      "results": [
+        {
+          "gameId": 1,
+          "opponent": "Werder Bremen",
+          "place": "home",
+          "fixture": "2-0"
+        },
+        {
+          "gameId": 2,
+          "opponent": "VfB Stuttgart",
+          "fixture": "1-1",
+          "place": "away"
+        },
+        {
+          "gameId": 3,
+          "opponent": "Borussia Dortmund",
+          "fixture": "3-4",
+          "place": "away"
+        }
+      ]
+    },
+    {
+      "TeamInfoId": 185,
+      "TeamName": "Fortuna Düsseldorf",
+      "ShortName": "Düsseldorf",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/150px-Fortuna_D%C3%BCsseldorf.svg.png",
+      "Points": 44,
+      "OpponentGoals": 65,
+      "Goals": 49,
+      "Matches": 34,
+      "Won": 13,
+      "Lost": 16,
+      "Draw": 5,
+      "GoalDiff": -16,
+      "player": [
+        {
+          "name": "John Doe",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe1",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe2",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe3",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        }
+      ],
+      "results": [
+        {
+          "gameId": 1,
+          "opponent": "Werder Bremen",
+          "place": "home",
+          "fixture": "2-0"
+        },
+        {
+          "gameId": 2,
+          "opponent": "VfB Stuttgart",
+          "fixture": "1-1",
+          "place": "away"
+        },
+        {
+          "gameId": 3,
+          "opponent": "Borussia Dortmund",
+          "fixture": "3-4",
+          "place": "away"
+        }
+      ]
+    },
+    {
+      "TeamInfoId": 79,
+      "TeamName": "1. FC Nürnberg",
+      "ShortName": "Nürnberg",
+      "TeamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/1._FC_Nürnberg_logo.svg/1024px-1._FC_Nürnberg_logo.svg.png",
+      "Points": 19,
+      "OpponentGoals": 68,
+      "Goals": 26,
+      "Matches": 34,
+      "Won": 3,
+      "Lost": 21,
+      "Draw": 10,
+      "GoalDiff": -42,
+      "player": [
+        {
+          "name": "John Doe",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe1",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe2",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        },
+        {
+          "name": "John Doe3",
+          "age": 31,
+          "number": 10,
+          "goals": 15,
+          "assists": 12,
+          "appearences": 27,
+          "position": "striker"
+        }
+      ],
+      "results": [
+        {
+          "gameId": 1,
+          "opponent": "Werder Bremen",
+          "place": "home",
+          "fixture": "2-0"
+        },
+        {
+          "gameId": 2,
+          "opponent": "VfB Stuttgart",
+          "fixture": "1-1",
+          "place": "away"
+        },
+        {
+          "gameId": 3,
+          "opponent": "Borussia Dortmund",
+          "fixture": "3-4",
+          "place": "away"
+        }
+      ]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
